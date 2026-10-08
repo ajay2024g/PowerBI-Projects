@@ -1,0 +1,1 @@
+This repository contains a Power BI dashboard for analyzing [data type, e.g., sales, marketing, finance] data. It features interactive visuals, data modeling with DAX, and data transformation using Power Query. Designed to provide clear insights and support data-driven decisions.
